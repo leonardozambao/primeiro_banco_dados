@@ -1,2 +1,6 @@
 # primeiro_banco_dados
-install-package EntityFramework
+// install-package Entity-Framework
+// uninstall-package Entity-Framework
+// enable-migrations
+// add-migration
+// update-database
